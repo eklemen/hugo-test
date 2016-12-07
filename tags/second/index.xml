@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site </title>
-    <link>https://eklemen.github.io/hugo-test/index.xml</link>
+    <link>https://eklemen.github.io/hugo-test/tags/second/index.xml</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
-    <updated>2016-12-06 15:10:45 -0500 EST</updated>
+    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
 
     
       
@@ -21,22 +21,6 @@
 &lt;h2 id=&#34;some-other-title&#34;&gt;Some other title&lt;/h2&gt;
 
 &lt;p&gt;This post is the second post in this series&amp;hellip;&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
-          <title>Good to Great</title>
-          <link>https://eklemen.github.io/hugo-test/post/good-to-great/</link>
-          <pubDate>Tue, 06 Dec 2016 14:52:26 EST</pubDate>
-          <author></author>
-          <guid>https://eklemen.github.io/hugo-test/post/good-to-great/</guid>
-          <description>
-
-&lt;h2 id=&#34;subtitle&#34;&gt;SubTitle&lt;/h2&gt;
-
-&lt;p&gt;Some &lt;strong&gt;test&lt;/strong&gt; data here. MD is &lt;em&gt;sooo&lt;/em&gt; cool.&lt;/p&gt;
 </description>
         </item>
       
